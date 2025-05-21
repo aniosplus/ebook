@@ -3,3 +3,4 @@ uvicorn
 openai
 fpdf
 jinja2
+python-multipart
